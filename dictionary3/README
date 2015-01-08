@@ -1,0 +1,16 @@
+README for dictionary 3
+
+Author: Colby Garland id# 5034957
+Lab #6 Assignment 3
+
+Purpose: Using strings, create a dictionary that reads from a file and sorts
+into an array the words
+
+to link and compile: 
+	-cd into top level directory of project
+	-type "make"
+
+to run: 
+	-type "./prog < <test.data>" where test.data is a text file
+
+git URL: https://github.com/colbygarland/dictonary3.git

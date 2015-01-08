@@ -1,0 +1,11 @@
+README for the dictionary program
+
+Author: Colby Garland ID# 5034957
+Program: Dictionary 2014
+Purpose: Read characters from a file, put them into a dictionary as words
+
+To compile the program: type "make" once you are in the top of the Lab4 directory
+
+To run the program: type "./prog < FILE" at the command line, where FILE is a text file of your choice.
+
+URL: https://github.com/colbygarland/dictionary

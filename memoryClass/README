@@ -1,0 +1,10 @@
+README for lab assignment 5
+Author: Colby Garland id# 5034957	
+Purpose: Simulate memory management with a class, add extra stuff
+
+git URL: https://github.com/colbygarland/memoryClass.git
+
+to make: cd into top level of lab7
+type make into command line
+
+to run: type "./prog" to run program

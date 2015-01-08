@@ -1,0 +1,17 @@
+README for dictionary 2
+
+Author: Colby Garland id# 5034957
+Lab #5 Assignment 2
+Purpose: Using strings, create a dictionary that reads from a file and sorts
+into an array the words
+
+to link and compile: 
+	-cd into top level directory of project
+	-type "make"
+
+to run: 
+	-type "./prog < <test.data>" where test.data is a text file
+
+Notice - sorting does not work properly
+
+Git url: https://github.com/colbygarland/dictionary2.git
